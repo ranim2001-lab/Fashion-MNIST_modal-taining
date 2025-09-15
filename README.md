@@ -39,10 +39,10 @@ conda activate fashion
 
 3. Install required dependencies:
 
-pip install -r requirements.txt
+pip install -r requirements.txt![Uploading preuve.PNG…]()
+
 
 ## 📸 Screensh
-<img width="1892" height="964" alt="preuve" src="https://github.com/user-attachments/assets/077231dd-b090-4fca-bbf1-67c6cd0abc88" />
 
 
 🏃‍♂️ Usage
