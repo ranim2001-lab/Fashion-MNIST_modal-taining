@@ -39,11 +39,7 @@ conda activate fashion
 
 3. Install required dependencies:
 
-pip install -r requirements.txt![Uploading preuve.PNG…]()
-
-
-## 📸 Screensh
-
+pip install -r requirements.txt
 
 🏃‍♂️ Usage
 
